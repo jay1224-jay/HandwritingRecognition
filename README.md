@@ -1,4 +1,4 @@
-# A Pygame-based application that recognizes handwritten digits using a model trained on the MNIST dataset
+# Handwritten digit recognizer built with Pygame and MNIST
 
 # Files
 - **train.py**: train CNN model with MNIST dataset
